@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erandbejtullahu&label=Profile%20views&color=0e75b6&style=flat" alt="erandbejtullahu" /> </p>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing](https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing)
+- 📄 Certificate [https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing](https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing)
 
 - 💬 Ask me about **python, web development, SQL**
 
