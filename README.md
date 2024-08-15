@@ -6,10 +6,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erandbejtullahu&label=Profile%20views&color=0e75b6&style=flat" alt="erandbejtullahu" /> </p>
 
 - 📄 Certificate [https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing](https://drive.google.com/file/d/1yr-m7tTe7ZxGlTir0714tvAHXSy9IHLY/view?usp=sharing)
-
+- 👀 I’m interested in Python development, data analysis, and machine learning.
+- 🌱 I’m currently learning advanced Python techniques, web development with Django, and data visualization libraries like Matplotlib and Seaborn.
+- 💞️ I’m looking to collaborate on Python-based projects, open-source contributions, and data science initiatives.
+- ⚡ Fun fact: I love solving complex puzzles and have a knack for automating everyday tasks with Python scripts!
 - 💬 Ask me about **python, web development, SQL**
 
 - 📫 How to reach me **erandi1993@live.com**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
